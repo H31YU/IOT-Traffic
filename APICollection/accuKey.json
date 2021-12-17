@@ -1,0 +1,5 @@
+{
+"key":""
+}
+
+with gzip.open("D:\\Downloads\\city.list.json.gz", "r") as f:

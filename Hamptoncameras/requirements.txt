@@ -1,0 +1,5 @@
+opencv
+opencv-contrib-python
+pickle
+json
+numpy
